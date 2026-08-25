@@ -1,5 +1,7 @@
-const birthYear = 1990;
-console.log(birthYear); // Вывод: 1990
+let num = 123;
+let strNum = String(num); // Использование функции String()
+console.log(strNum); // Вывод: "123"
 
- birthYear = 1991; // Ошибка: присваивание значения константе
-// const birthYear = 1992; // Ошибка: переменная уже объявлена в этой области видимости
+let bool = true;
+let strBool = bool.toString(); // Использование метода toString()
+console.log(strBool); // Вывод: "true"
