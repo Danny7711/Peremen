@@ -1,6 +1,9 @@
+let age = 26;
+console.log(age); 
 
-let isValid = Boolean(1); // true
-console.log(isValid);
+age = 27; 
+console.log(age); 
 
-let isEmpty = Boolean(''); // false
-console.log(isEmpty);
+
+const birthYear = 2000;
+console.log(birthYear); 
