@@ -1,9 +1,12 @@
-let age = 26;
+let age = 23;
 console.log(age); 
 
-age = 27; 
+age = 24; 
 console.log(age); 
 
 
-const birthYear = 2000;
+const birthYear = 2003;
 console.log(birthYear); 
+
+var name = 'Ernazar';
+console.log (name);
