@@ -8,5 +8,5 @@ console.log(age);
 const birthYear = 2003;
 console.log(birthYear); 
 
-var name = 'Ernazar';
+var name = 'Yernazar';
 console.log (name);
